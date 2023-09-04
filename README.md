@@ -97,3 +97,17 @@ Functional Requirement<br>
 Create feature for users to create profiles<br><br>
 Non-Functional Requirement<br>
 Have selecting user profiles appear on start<br>
+
+</details>
+
+<details>
+<summary>Berat</summary>
+
+</details>
+
+<details>
+<summary>Nuh</summary>
+
+</details>
+
+# Top 10 Requirements
