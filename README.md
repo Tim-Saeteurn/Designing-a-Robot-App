@@ -43,7 +43,8 @@
 10. remake of order: if the Tuna Fish Sandwich is not to the liking of the customer, how will the robot and its app revise or handle such requests. <br><br>
 </details>
 
-![image](https://github.com/Tim-Saeteurn/Designing-a-Robot-App/assets/142946156/c2b10aea-a9d7-43cf-beb0-2b14c15e8c9c)
+![image](https://github.com/Tim-Saeteurn/Designing-a-Robot-App/assets/142946156/d5fb808d-9b8e-4a37-8f5b-a285a63251a2)
+
 
 # User Story Requirements
 
