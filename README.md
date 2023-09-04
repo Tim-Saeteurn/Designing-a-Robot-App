@@ -76,3 +76,24 @@ Functional Requirement<br>
 Create a blacklist or restriction filter for ingredients.<br><br>
 Non-Functional Requirement<br>
 Have some sort of list so users can see what they have filtered out.<br><br>
+7. As a User, I want to be able to try new recipes so that I don't get bored of eating the same meals.<br><br>
+Functional Requirement<br>
+Have app update with new recipes.<br>
+Allow users to add their own recipes.<br><br>
+Non-Functional Requirement<br>
+The app should be able to suggest new recipes when looking for something to make<br><br>
+8. As a Host, I want to know what amount of ingredients I would need for a large amount of people so that I can plan out what groceries to get.<br><br>
+Functional Requirement<br>
+Have the app show how much food is needed to make one or multiple meals.<br><br>
+Non-Functional Requirement<br>
+The robot should be able to answer what amount of ingredients is needed when asked.<br><br>
+9. As a disabled user, I want to be able to verbally tell the robot what I want it to do so that the features are accessable to me.<br><br>
+Functional Requirement<br>
+Have RT5000 and the app work with verbal commands.<br><br>
+Non-Functional Requirement<br>
+Increase the amount of accessibility features for RT5000 and the app<br><br>
+10. As a Family of Users, we want to be able to have seperate profiles so that we can set our own preferences and restrictions.<br><br>
+Functional Requirement<br>
+Create feature for users to create profiles<br><br>
+Non-Functional Requirement<br>
+Have selecting user profiles appear on start<br>
