@@ -162,7 +162,7 @@ Non Functional/Functional Requirement<br>
 The RT5000's app should include an "Ingredient Substitution" part available through the touchscreen interface.<br>
 The app should process substitution requests in real-time and display the edited recipe.<br><br>
 
-2. As a customer using the RT5000 robot, I want to be able to specify my choice for the type of bread used in my Tuna Fish Sandwich So that I can enjoy a customized sandwich that aligns with my taste.<br><br>
+2.As a customer using the RT5000 robot, I want to be able to specify my choice for the type of bread used in my Tuna Fish Sandwich So that I can enjoy a customized sandwich that aligns with my taste.<br><br>
 Non Functional/Functional Requirement<br>
 The RT5000's app must allow users to choose the type of bread used in the Tuna Fish Sandwich through the touchscreen interface.<br>
 If a user's choice of bread type is unavailable or out of stock, the app should provide clear feedback<br><br>
@@ -197,7 +197,7 @@ Non Functional/Functional Requirement<br>
 The RT5000's app should include an "Emergency Shut-off" button available through the touchscreen interface<br>
 The "Emergency Shut-off" button should be easily seen within the app's interface<br><br>
 
-9. As a customer using the RT5000 robot, I want proof that if my Tuna Fish Sandwich recipe is updated in the future, the robot and its app will be adjusted to remember it, So that I can enjoy a Tuna Fish Sandwich that i created before.<br><br>
+9.As a customer using the RT5000 robot, I want proof that if my Tuna Fish Sandwich recipe is updated in the future, the robot and its app will be adjusted to remember it, So that I can enjoy a Tuna Fish Sandwich that i created before.<br><br>
 Non Functional/Functional Requirement<br>
 If the user accepts the update, the app should automatically apply the changes to the Tuna Fish Sandwich preparation for all future orders<br>
 The app should maintain a version history of recipe updates<br><br>
