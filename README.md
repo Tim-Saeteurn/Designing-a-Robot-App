@@ -103,7 +103,56 @@ Have selecting user profiles appear on start<br>
 
 <details>
 <summary>Berat</summary>
-
+1. As a user, i want to be able to customize my meal so that can help me to set my food's spices percentage.<br><br>
+Functional Requirement <br><br>
+Add a customize feature to the app and let users change their spices percentage.<br>
+Non-Functional Requirement<br>
+RT5000 should be cook healty meal.<br><br>
+2. As a user i want to be able to cook two different meal at the same time so that i can save time.<br><br>
+Functional Requirement<br>
+Add multiple task feature to RT5000.<br><br>
+Non-Functional Requirement<br>
+RT5000 should cook fast.<br><br>
+3. As a user i want to be able to get notification when meal is cooked and ready to eat.<br><br>
+Functional Requirement<br>
+Add timer function and send meal update notification to users.<br><br>
+Non-Functional Requirement<br>
+RT5000 should send e-mail notifications to users.<br><br>
+4. As a user i want to be able to add new recipe so that i can have more meals.<br><br>
+Functional Requirement<br>
+Add create new recipe function and let users add their meal’s recipe as robot as can do.<br><br>
+Non-Functional Requirement<br>
+RT5000 needs to able to cook minumum 10 meal.<br><br>
+5. As a family user i want to be able to add my family members to my account so that they can add their meals and recipes.<br><br>
+Functional Requirement<br>
+Create new feature as add new user to account.<br><br>
+Non-Functional Requirement<br>
+RT5000 should have different account type.<br><br>
+6. As a vegetarian user, I want the cooker robot to create meatless meal using a variety of plant-based ingredients, offering me diverse meals.<br><br>
+Functional Requirement<br>
+Add new feature and show people pre-installed different category as vegeterian, kid, protein meals.<br><br>
+Non-Functional Requirement<br>
+RT5000 should have fatless meals.<br><br>
+7. As a foodie, I want the robot to explore international cuisines, preparing dishes from different cultures so that i can taste different cuisines.<br><br>
+Functional Requirement<br>
+Add new feature and show people prepared international cuisine’s meals.<br><br>
+Non-Functional Requirement<br>
+RT5000 should learn how to cook different cuisine’s meals.<br><br>
+8. As a user i want to be able use application in different language so that i can understand better.<br><br>
+Functional Requirement<br>
+Add language feature and let users change application language from available languages.<br><br>
+Non-Functional Requirement<br>
+RT5000 needs to support min 2 language .<br><br>
+9. As a chef, I want the robot to assist with precise temperature control for sous-vide cooking, so that enabling me to experiment with gourmet recipes.<br><br>
+Functional Requirement<br>
+Add temperature control function to app and let users set their precise temperature.<br><br>
+Non-Functional Requirement<br>
+RT5000 needs to cook meals at higher temperature.<br><br>
+10. As a parent, I want the robot to make kid meals so that i can cook for my kids.<br><br>
+Functional Requirement<br>
+Add prepared kids meal function to app.<br><br>
+Non-Functional Requirement<br>
+RT5000 should have cook meals for different ages.<br>
 </details>
 
 <details>
