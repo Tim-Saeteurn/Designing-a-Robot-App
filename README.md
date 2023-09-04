@@ -108,6 +108,10 @@ Have selecting user profiles appear on start<br>
 
 <details>
 <summary>Nuh</summary>
+1. As a customer using the RT5000 robot, I want to be able to request ingredient substitutions for my Tuna Fish Sandwich due to dietary restrictions or personal preferences, So that I can enjoy a customized sandwich that aligns with my specific needs.<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000's app should include an "Ingredient Substitution" part available through the touchscreen interface.<br>
+The app should process substitution requests in real-time and display the edited recipe.<br><br>
 
 </details>
 
