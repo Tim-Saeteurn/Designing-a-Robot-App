@@ -32,15 +32,15 @@
 <details>
 <summary>Nuh</summary>
 1.Ingredient Substitutions Can users request substitutions due to dietary restrictions or personal preferences? How should the robot handle such requests? <br><br>
-2. <br><br>
-3. <br><br>
-4. <br><br>
-5. <br><br>
-6. <br><br>
-7. <br><br>
-8. <br><br>
-9. <br><br>
-10. <br><br>
+2. Bread Variety: Is there a preference for the type of bread used in the Tuna Fish Sandwich? <br><br>
+3. Temperature Control: Should the robot consider temperature control, like refrigerating or warming up certain ingredients. <br><br>
+4. User Guidance: How will the RT5000 app guide users through customizing their Tuna Fish Sandwich? Should it provide visual prompts or audio prompts to the users? <br><br>
+5. Allergen Cross-Contamination: How should the robot avoid cross-contamination between ingredients to accommodate users with allergies? <br><br>
+6. Taste Testing: Is there a requirement for the robot to perform taste tests or checks to ensure the final product is ready to eat? <br><br>
+7. Storage and Leftovers: What should the robot do with leftover ingredients or prepared sandwiches that weren't eaten? <br><br>
+8. Emergency Shut-off: How can users stop the robot's operation if they need to intervene or adjust during the Tuna Fish Sandwich preparation? <br><br>
+9. Recipe Updates: If the Tuna Fish Sandwich recipe is edited or altered in the future, how will the robot and its app be revised to reflect these changes and guarantee consistency? <br><br>
+10. remake of order: if the Tuna Fish Sandwich is not to the liking of the customer, how will the robot and its app revise or handle such requests. <br><br>
 </details>
 
 ![image](https://github.com/Tim-Saeteurn/Designing-a-Robot-App/assets/142946156/c2b10aea-a9d7-43cf-beb0-2b14c15e8c9c)
