@@ -4,11 +4,11 @@
 <summary>Tim</summary>
 <br>
 
-1-Can RT5000 work with other appliances? Like a rice cooker.
+1. Can RT5000 work with other appliances? Like a rice cooker.
 
-2-How does RT5000 handle intense heat when cooking?
+2. How does RT5000 handle intense heat when cooking?
 
-3-How does RT5000 handle food safety? How will RT5000 determine when something is fully cooked? Will it wash its hands?
+3. How does RT5000 handle food safety? How will RT5000 determine when something is fully cooked? Will it wash its hands?
 
 4-Will RT5000 allow for different ingredients when asked? Different beans/rice request.
 
