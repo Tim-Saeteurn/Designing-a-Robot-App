@@ -116,3 +116,7 @@ The app should process substitution requests in real-time and display the edited
 </details>
 
 # Top 10 Requirements
+
+
+
+![image](https://github.com/Tim-Saeteurn/Designing-a-Robot-App/assets/142946156/8555202b-3338-4662-969e-9b7ffb28c2d1)
