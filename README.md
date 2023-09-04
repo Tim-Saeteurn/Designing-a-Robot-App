@@ -207,18 +207,19 @@ Non Functional/Functional Requirement<br>
 The RT5000's app should include a "Request Remake" button.<br>
 The "Request Remake" button should be easily accessible<br><br>
 
-
-
-
-
-
-
-
-
 </details>
 
 # Top 10 Requirements
-
-
-
+1. Create feature that allows users to create and select profiles. This allows seperate users to set preferences and restrictions on diet.
+2. Add language features that allow users to change application language. This is important because not everyone speaks the same language.
+3. Have RT5000 and the app work with verbal commands. This allows for more accessibility options.
+4. The RT5000's app should include a filter feature to accomodate for preferances and allergies. The feature is important for customer happiness and safety.
+5. The RT5000 should include an "Emergency Shut-off" button. This is in case of emergencies or if the robots behavior isn't what was intended.
+6. Have app update with new recipes and allow users to add their own recipes. This is to create variety and stop you from eating the same meal over and over.
+7. Allow users to set portion size when setting parameters for making a meal. This is to allow for small snacks or gatherings.
+8. Add a feature to the app and let users customize their spices rating. This helps people have more agency over what they want to eat.
+9. The RT5000's app should include a feedback option. This will allow users to let the robot know what they like and what they can improve on.
+10. The RT5000's app should include an "Ingredient Substitution" option. This will allow users to change ingredients out of preference not just for allergies.
+<br>
 ![image](https://github.com/Tim-Saeteurn/Designing-a-Robot-App/assets/142946156/8555202b-3338-4662-969e-9b7ffb28c2d1)
+😂
