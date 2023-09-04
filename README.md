@@ -162,6 +162,59 @@ Non Functional/Functional Requirement<br>
 The RT5000's app should include an "Ingredient Substitution" part available through the touchscreen interface.<br>
 The app should process substitution requests in real-time and display the edited recipe.<br><br>
 
+2. As a customer using the RT5000 robot, I want to be able to specify my choice for the type of bread used in my Tuna Fish Sandwich So that I can enjoy a customized sandwich that aligns with my taste.<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000's app must allow users to choose the type of bread used in the Tuna Fish Sandwich through the touchscreen interface.<br>
+If a user's choice of bread type is unavailable or out of stock, the app should provide clear feedback<br><br>
+
+3.As a customer using the RT5000 robot,I want the robot to consider temperature control during the preparation of my Tuna Fish Sandwich So that I can enjoy a safe and delicious sandwich with ingredients at the right temperature.<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000 app should include temperature control options for certain ingredients available through the touchscreen interface.<br>
+The "Temperature Control" button should be placed within the app's interface to make it easily seen for the users<br><br>
+
+4.As a customer using the RT5000 robot, I want the RT5000's app to provide clear instructions on how to customize my Tuna Fish Sandwich So that I can easily personalize my sandwich according to my preferences and dietary requirements.<br><br>
+Non Functional/Functional Requirement<br>
+When a customer selects the "Customize Tuna Fish Sandwich" button, the app should provide a step-by-step guide with clear visual prompts.<br>
+The app should support both visual prompts and, if possible, audio prompts to accommodate to users with different accessibility needs<br><br>
+
+5.As a customer with food allergies, I want the RT5000 robot to take precautions to prevent cross-contamination between ingredients when preparing my Tuna Fish Sandwich, So that I can enjoy a safe and allergen-free meal without the risk of allergic reactions.<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000's app should include an "Allergy" feature accessible through the touchscreen interface<br>
+The "ingreidents" button should be placed within the app's interface to ensure that users with allergen concerns can easily access it.<br><br>
+
+6.As a customer using the RT5000 robot, I want someone to perform taste tests or checks on my Tuna Fish Sandwich before serving it, So that I can be confident that the sandwich is good.<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000's app should include a "Taste Testing" button accessible through the touchscreen interface.<br>
+The "Taste Testing" button should be optional, allowing users to opt-in or opt-out based on their choice<br><br>
+
+7.As a customer using the RT5000 robot, I want the robot to handle leftover ingredients and prepared sandwiches in an appropriate  manner, So that I can minimize food waste.<br><br>
+Non Functional/Functional Requirement<br>
+If the user chooses to save leftovers for later, the robot should store them in containers<br>
+The robot's storage and handling of leftovers should prioritize food safety and hygiene<br><br>
+
+8.As a customer using the RT5000 robot, I want the ability to stop the robot's operation during Tuna Fish Sandwich preparation, So that I can intervene or make adjustments if needed<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000's app should include an "Emergency Shut-off" button available through the touchscreen interface<br>
+The "Emergency Shut-off" button should be easily seen within the app's interface<br><br>
+
+9. As a customer using the RT5000 robot, I want proof that if my Tuna Fish Sandwich recipe is updated in the future, the robot and its app will be adjusted to remember it, So that I can enjoy a Tuna Fish Sandwich that i created before.<br><br>
+Non Functional/Functional Requirement<br>
+If the user accepts the update, the app should automatically apply the changes to the Tuna Fish Sandwich preparation for all future orders<br>
+The app should maintain a version history of recipe updates<br><br>
+
+10.As a user of the RT5000 robot, I want the ability to request a remake of my Tuna Fish Sandwich, so that i can fully enjoy my sandwhich that I paid for.<br><br>
+Non Functional/Functional Requirement<br>
+The RT5000's app should include a "Request Remake" button.<br>
+The "Request Remake" button should be easily accessible<br><br>
+
+
+
+
+
+
+
+
+
 </details>
 
 # Top 10 Requirements
