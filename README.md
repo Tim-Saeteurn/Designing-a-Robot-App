@@ -31,7 +31,7 @@
 
 <details>
 <summary>Nuh</summary>
-1. <br><br>
+1.Ingredient Substitutions Can users request substitutions due to dietary restrictions or personal preferences? How should the robot handle such requests? <br><br>
 2. <br><br>
 3. <br><br>
 4. <br><br>
