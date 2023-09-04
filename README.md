@@ -60,3 +60,19 @@ Functional Requirement<br>
 Create option for substitutions for recipes in app.<br><br>
 Non-Functional Requirement<br>
 Have many ingredients listed in app that can be changed to allow for substitutions.<br><br>
+3. As a User, I want to be able to choose the portion size of my meal so  I don't cook to much food and let it go to waste.<br><br>
+Functional Requirement<br>
+Allow users to set portion size when setting parameters for making a meal.<br><br>
+Non-Functional Requirement<br>
+The app should be clear on how much food is being made.<br><br>
+4. As a Parent, I want to know that the robot has safety measure so that I know my family won't be harmed.<br><br>
+Functional Requirement<br>
+Have RT5000 or the app explain safety measures.<br>
+Make the robot give audible warnings and alerts when there is a problem.<br><br>
+Non-Functional Requirement<br>
+Have RT5000 and the app show multiple safety measures to informs users on safety.<br><br>
+6. As someone who is allergic to certain foods, I want to be able to set restrictions on certain ingredients so I don't have an allergic reaction<br><br>
+Functional Requirement<br>
+Create a blacklist or restriction filter for ingredients.<br><br>
+Non-Functional Requirement<br>
+Have some sort of list so users can see what they have filtered out.<br><br>
