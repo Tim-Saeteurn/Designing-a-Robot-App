@@ -30,14 +30,14 @@
 <summary>Berat</summary>
 <br>
 
-1-How will you ensure complex task that the RT5000 could robot handle to make chicken soup?<br> </br>
-2-How you would manage when multiple tasks are running on the RT5000?<br> </br>
-3-How would you gather and analyze user feedback to continuously improve and expand the library of pre-installed tasks?<br> </br>
-4-How will you update RT-5000’s software to add new task or recipe?<br> </br>
-5-How do you plan to handle potential errors when  pre-installed tasks are scheduled to run concurrently?<br> </br>
-6-How would you prioritize chicken soup recipe?<br> </br>
-7-How you would allow users customize pre-installed tasks to their specific preferences and needs?<br> </br>
-8-How would you ensure that the pre-installed tasks can scale chicken soup recipe?<br> </br>
-9-How would you ensure when robot will need to maintenance?<br> </br>
-10-How would you optimize resource usage, such as battery life and memory, when developing tasks for the robot?<br> </br>
+1-How will you ensure complex task that the RT5000 could robot handle to make chicken soup?<br><br>
+2-How you would manage when multiple tasks are running on the RT5000?<br><br>
+3-How would you gather and analyze user feedback to continuously improve and expand the library of pre-installed tasks?<br><br>
+4-How will you update RT-5000’s software to add new task or recipe?<br><br>
+5-How do you plan to handle potential errors when  pre-installed tasks are scheduled to run concurrently?<br><br>
+6-How would you prioritize chicken soup recipe?<br><br>
+7-How you would allow users customize pre-installed tasks to their specific preferences and needs?<br><br>
+8-How would you ensure that the pre-installed tasks can scale chicken soup recipe?<br><br>
+9-How would you ensure when robot will need to maintenance?<br><br>
+10-How would you optimize resource usage, such as battery life and memory, when developing tasks for the robot?<br><br>
 </details>
